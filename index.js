@@ -1,5 +1,5 @@
 // =====================================================================================================
-// // membuat dan memanggil function
+// // Membuat dan memanggil function
 // function hitungKubus(a, b) {
 //   a **= 3;
 //   b **= 3;
